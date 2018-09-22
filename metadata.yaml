@@ -1,5 +1,8 @@
 _repo: Suomen-Kansan-Vanhoja-Runoja-ynna-myos-Nykyisempia-Lauluja-1_54449
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Topelius, Zacharias
@@ -16,6 +19,8 @@ creator:
     - http://fi.wikipedia.org/wiki/Zacharias_Topelius
     - http://en.wikipedia.org/wiki/Zachris_Topelius
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54449#Suomen-Kansan-Vanhoja-Runoja-ynna-myos-Nykyisempia-Lauluja-1
 gutenberg_issued: '2017-03-28'
 gutenberg_type: Text
 identifiers:
